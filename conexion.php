@@ -1,7 +1,7 @@
 <?php
 	$database="crud";
 	$user='root';
-	$password='';
+	$password='root';
 
 
 try {
