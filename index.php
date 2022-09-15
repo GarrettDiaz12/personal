@@ -30,8 +30,6 @@
 	<link rel="stylesheet" href="css/estilo.css">
 </head>
 <body bgcolor =#FFFFFF>
-<img src="SEP.png" align="left" alt="imagen no disponible" WIDTH =174 HEIGHT =130 >
-<img src="ITL.png" align="right" alt="imagen no disponible" WIDTH =150 HEIGHT =130>
 	<div class="contenedor">
 	<center>
         <h1>DÍAZ CERVERA BRIAN NOÉ</h1>
